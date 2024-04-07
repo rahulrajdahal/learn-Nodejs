@@ -23,8 +23,12 @@
   - document.querySelector('.element-class')
   - document.querySelectorAll('.element-class')
   - document.getElementById('.element-class')
+  - document.querySelector('.element-class').style.property = value
 - Learn updating content in html.
   - element.innerHTML = 'myContent'
+- Learn time events. (setTimeout, setInterval)
+    - https://www.w3schools.com/jsref/met_win_settimeout.asp
+    - https://developer.mozilla.org/en-US/docs/Web/API/setInterval
 
 ### Advanced JavaScript
 
@@ -45,6 +49,10 @@
   - https://nodejs.org/en/learn/manipulating-files/reading-files-with-nodejs
 
 ## Creating http Servers
+
+### Command Line
+
+- https://www.npmjs.com/package/minimist
 
 ### HTTP methods
 
@@ -81,6 +89,8 @@
 
 ## Extras
 
-- Learn React
 - Learn HTTP protocols
 - Learn about middlewares, caching and types of apis.
+- Learn React
+- Learn js runtimes
+- Learn js bundlers
